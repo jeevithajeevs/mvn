@@ -174,4 +174,17 @@
             </extension>
         </extensions>
 	</build>
+	<distributionManagement>
+        <repository>
+        <id>demo-releases</id>
+        <name>demo-releases</name>
+        <url>http://192.168.5.36:8081/nexus/content/repositories/demo-releases/</url>
+        </repository>
+
+        <snapshotRepository>
+        <id>demo-snapshots</id>
+        <name>demo-snapshots</name>
+        <url>http://192.168.5.36:8081/nexus/content/repositories/demo-snapshots/</url>
+        </snapshotRepository>
+        </distributionManagement>
 </project>
