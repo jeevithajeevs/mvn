@@ -1,4 +1,6 @@
 git init
 git checkout qa
+git add .
+git commit -m "auto commit"
 git merge master
 git push origin qa
