@@ -1,0 +1,7 @@
+/var/lib/jenkins/workspace/git-push/src/main/java/in/javahome/ims/service/StudentService.java
+/var/lib/jenkins/workspace/git-push/src/main/java/in/javahome/ims/service/IStudentService.java
+/var/lib/jenkins/workspace/git-push/src/main/java/in/javahome/ims/pojo/StudentModel.java
+/var/lib/jenkins/workspace/git-push/src/main/java/in/javahome/ims/controller/StudentController.java
+/var/lib/jenkins/workspace/git-push/src/main/java/in/javahome/ims/repositories/StudentRepository.java
+/var/lib/jenkins/workspace/git-push/src/main/java/in/javahome/ims/response/Response.java
+/var/lib/jenkins/workspace/git-push/src/main/java/in/javahome/ims/entities/Student.java
